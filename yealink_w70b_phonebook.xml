@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<YealinkIPPhoneBook>
+  <Title>Annuaire</Title>
+  <Menu Name="Tous les contacts">
+    <Unit Name="Toto" Phone1="+33123456789" Phone2="+33654321321" Phone3="" default_photo="Resource:"/>
+    <Unit Name="David" Phone1="29000" Phone2="42" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Vincent" Phone1="+33200000" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Maxime" Phone1="+3340008" Phone2="" Phone3="" default_photo="Resource:"/>
+    <Unit Name="Noor" Phone1="+33598765" Phone2="" Phone3="" default_photo="Resource:"/>
+  </Menu>
+</YealinkIPPhoneBook>
